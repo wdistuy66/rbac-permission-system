@@ -1,0 +1,76 @@
+<template>
+    <el-menu
+            :default-active="this.$store.state.menu.editableTabsValue"
+            class="el-menu-vertical-demo"
+            background-color="#545c64"
+            text-color="#fff"
+            active-text-color="#ffd04b">
+
+        <router-link to="/index">
+            <el-menu-item index="0" @click="selectMenu({name:'Index',title:'首页'})">
+                <template slot="title">
+                    <i class="el-icon-s-home"></i>
+                    <span slot="title" style="color:yellow;" class="font-style">首页</span>
+                </template>
+            </el-menu-item>
+        </router-link>
+
+        <el-submenu :index="menu.name" v-for="menu  in menuList">
+            <template slot="title">
+                <i :class="menu.icon"></i>
+                <span class="font-style">{{menu.title}}</span>
+            </template>
+
+            <router-link :to="item.path" v-for="item  in menu.children">
+                <el-menu-item :index="item.name" @click="selectMenu(item)">
+                    <template slot="title">
+                        <i :class="item.icon"></i>
+                        <span slot="title" class="font-style">{{item.title}}</span>
+                    </template>
+                </el-menu-item>
+            </router-link>
+
+
+        </el-submenu>
+
+
+
+    </el-menu>
+</template>
+
+<script>
+    export default {
+        name: "SideMenu",
+        data(){
+            return{}
+        },
+        computed:{
+            menuList:{
+                get(){
+                    return this.$store.state.menu.menuList
+                }
+            }
+        },
+        methods:{
+            selectMenu(item){
+                this.$store.commit("addTab",item)
+            }
+        }
+    }
+</script>
+
+<style scoped>
+    .el-menu-vertical-demo {
+        height: 100%;
+        border: none;
+    }
+
+    a{
+        text-decoration: none;
+        color: inherit;
+    }
+
+    .font-style {
+        margin-left: 8px;
+    }
+</style>

@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb254187-666e-4674-add4-26c578579896" name="Default Changelist" comment="" />
+    <list id="fa801222-03ff-4695-a166-19416f5df4f6" name="Revert &quot;第四周，进度至：index页面整体布局，左侧导航栏&quot;" comment="Revert &quot;第四周，进度至：index页面整体布局，左侧导航栏&quot;&#10;&#10;This reverts commit a1e46ec7" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="19l" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="19l" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="ProjectId" id="33MpTEDwDCk6kQJhy37nKdsWEGr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\class\Git-space\vue_manger\src\views" />
+      <recent name="D:\class\Git-space\vue_manger\src\assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\class\Git-space\vue_manger\src" />
+      <recent name="D:\class\Git-space\vue_manger\src\router" />
+      <recent name="D:\class\Git-space\vue_manger\src\views\sys" />
+      <recent name="D:\class\Git-space\vue_manger\src\store\modules" />
+      <recent name="D:\class\Git-space\vue_manger\src\assets" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb254187-666e-4674-add4-26c578579896" name="Default Changelist" comment="" />
+      <created>1759136800726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759136800726</updated>
+      <workItem from="1759136801881" duration="517000" />
+      <workItem from="1759137328029" duration="1846000" />
+      <workItem from="1759898922861" duration="6278000" />
+      <workItem from="1760438134661" duration="83000" />
+      <workItem from="1760438358558" duration="574000" />
+      <workItem from="1760439022495" duration="718000" />
+      <workItem from="1760964388501" duration="412000" />
+      <workItem from="1761363356158" duration="785000" />
+      <workItem from="1761364174501" duration="17315000" />
+      <workItem from="1761538246892" duration="79000" />
+      <workItem from="1762064820121" duration="3959000" />
+      <workItem from="1762073465654" duration="6854000" />
+      <workItem from="1762782905877" duration="3000" />
+      <workItem from="1762920336723" duration="605000" />
+      <workItem from="1763286618481" duration="286000" />
+      <workItem from="1765110246054" duration="630000" />
+      <workItem from="1765159082470" duration="2943000" />
+      <workItem from="1765762636661" duration="19060000" />
+      <workItem from="1765947121022" duration="862000" />
+      <workItem from="1766046132426" duration="841000" />
+      <workItem from="1766293678310" duration="249000" />
+    </task>
+    <task id="LOCAL-00001" summary="已安装好axios,qs,mockjs，即将开始路由开发，登录页面开发">
+      <created>1759136827466</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759136827466</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第三周：登录页面元素开发完成">
+      <created>1759901647963</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759901647963</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第四周：第一小节完成：登陆页面发起请求">
+      <created>1759902938560</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759902938560</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第四周：第二小节完成：axios请求前后置拦截处理">
+      <created>1759903901865</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759903901865</updated>
+    </task>
+    <task id="LOCAL-00005" summary="第四周，进度至：index页面整体布局，左侧导航栏">
+      <created>1759905129208</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1759905129208</updated>
+    </task>
+    <task id="LOCAL-00006" summary="第五章:进度1：完成拆分Vue组件，导航栏路由，用户信息模块与退出">
+      <created>1761371336094</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1761371336094</updated>
+    </task>
+    <task id="LOCAL-00007" summary="第五章:进度2：完成动态导航实现与动态路由绑定。">
+      <created>1761375182333</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1761375182333</updated>
+    </task>
+    <task id="LOCAL-00008" summary="第六章:进度1：完成导航与动态标签的绑定">
+      <created>1761379243300</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1761379243300</updated>
+    </task>
+    <task id="LOCAL-00009" summary="第六章:进度2：完成菜单管理界面实现">
+      <created>1761380855320</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1761380855320</updated>
+    </task>
+    <task id="LOCAL-00010" summary="第六章:进度2：完成菜单管理增删改功能">
+      <created>1761381452115</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1761381452115</updated>
+    </task>
+    <task id="LOCAL-00011" summary="第七章：进度1：完成角色功能界面，包括新。">
+      <created>1762074776466</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1762074776466</updated>
+    </task>
+    <task id="LOCAL-00012" summary="第七章：进度2：角色管理分配权限功能">
+      <created>1762079320695</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1762079320695</updated>
+    </task>
+    <task id="LOCAL-00013" summary="第七章，进度3：用户管理功能实现">
+      <created>1762079567085</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1762079567085</updated>
+    </task>
+    <task id="LOCAL-00014" summary="第七章，进度4：前端按钮权限控制">
+      <created>1762080342037</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1762080342037</updated>
+    </task>
+    <task id="LOCAL-00015" summary="第十二章-进度2：实现用户户导航栏与权限接口作">
+      <created>1765168030287</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1765168030287</updated>
+    </task>
+    <task id="LOCAL-00016" summary="第13章-菜单管理和角色管理的增删改接口">
+      <created>1765768563291</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1765768563291</updated>
+    </task>
+    <task id="LOCAL-00017" summary="第14章-前端-进度2 完成细节优化">
+      <created>1765803641460</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1765803641460</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="已安装好axios,qs,mockjs，即将开始路由开发，登录页面开发" />
+    <MESSAGE value="第三周：登录页面元素开发完成" />
+    <MESSAGE value="第四周：第一小节完成：登陆页面发起请求" />
+    <MESSAGE value="第四周：第二小节完成：axios请求前后置拦截处理" />
+    <MESSAGE value="第四周，进度至：index页面整体布局，左侧导航栏" />
+    <MESSAGE value="Revert &quot;第四周，进度至：index页面整体布局，左侧导航栏&quot;&#10;&#10;This reverts commit a1e46ec7" />
+    <MESSAGE value="第五章:进度1：完成拆分Vue组件，导航栏路由，用户信息模块与退出" />
+    <MESSAGE value="第五章:进度2：完成动态导航实现与动态路由绑定。" />
+    <MESSAGE value="第六章:进度1：完成导航与动态标签的绑定" />
+    <MESSAGE value="第六章:进度2：完成菜单管理界面实现" />
+    <MESSAGE value="第六章:进度2：完成菜单管理增删改功能" />
+    <MESSAGE value="第七章：进度1：完成角色功能界面，包括新。" />
+    <MESSAGE value="第七章：进度2：角色管理分配权限功能" />
+    <MESSAGE value="第七章，进度3：用户管理功能实现" />
+    <MESSAGE value="第七章，进度4：前端按钮权限控制" />
+    <MESSAGE value="第十二章-进度2：实现用户户导航栏与权限接口作" />
+    <MESSAGE value="第13章-菜单管理和角色管理的增删改接口" />
+    <MESSAGE value="第14章-前端-进度2 完成细节优化" />
+    <option name="LAST_COMMIT_MESSAGE" value="第14章-前端-进度2 完成细节优化" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="847" y="220" key="CommitChangelistDialog2" timestamp="1765803640490">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="847" y="220" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1765803640490" />
+    <state x="18" y="83" key="DiffContextDialog" timestamp="1759901642987">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="18" y="83" key="DiffContextDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1759901642987" />
+    <state x="1164" y="308" key="FileChooserDialogImpl" timestamp="1766046143255">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="1164" y="308" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1766046143255" />
+    <state x="602" y="394" key="GitRewordDialog" timestamp="1760438831618">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="602" y="394" key="GitRewordDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1760438831618" />
+    <state width="1146" height="203" key="GridCell.Tab.0.bottom" timestamp="1761364148612">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1146" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1761364148612" />
+    <state width="1146" height="203" key="GridCell.Tab.0.center" timestamp="1761364148612">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1146" height="203" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1761364148612" />
+    <state width="1146" height="203" key="GridCell.Tab.0.left" timestamp="1761364148612">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1146" height="203" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1761364148612" />
+    <state width="1146" height="203" key="GridCell.Tab.0.right" timestamp="1761364148612">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1146" height="203" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1761364148612" />
+    <state x="316" y="242" key="RollbackChangesDialog" timestamp="1759136917914">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="316" y="242" key="RollbackChangesDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1759136917914" />
+    <state x="63" y="263" key="SettingsEditor" timestamp="1760438683639">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="63" y="263" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1760438683639" />
+    <state x="511" y="227" key="VcsDiffUtil.ChangesDialog" timestamp="1760438882176">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="511" y="227" key="VcsDiffUtil.ChangesDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1760438882176" />
+    <state x="928" y="391" key="com.intellij.ide.util.TipDialog" timestamp="1766046132980">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="928" y="391" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1766046132980" />
+    <state x="949" y="132" width="786" height="900" key="find.popup" timestamp="1759899178740">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="949" y="132" width="786" height="900" key="find.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1759899178740" />
+    <state x="713" y="302" width="672" height="678" key="search.everywhere.popup" timestamp="1765803589929">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="713" y="302" width="672" height="678" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1765803589929" />
+  </component>
+</project>
