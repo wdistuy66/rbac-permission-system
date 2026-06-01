@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-ChildItem -Path \"E:\\\\homework\\\\大三上学期\\\\web应用开发课程实验\\\\rbac-permission-system\" -Recurse -Depth 2 -Exclude \"node_modules\" | Where-Object { -not $_.FullName.Contains\\(\"node_modules\"\\) } | Select-Object Mode, FullName | Sort-Object FullName)",
+      "PowerShell(Get-ChildItem -Path \"E:\\\\homework\\\\大三上学期\\\\web应用开发课程实验\\\\rbac-permission-system\\\\vue_manger\\\\src\" -Recurse -Exclude \"node_modules\" | Where-Object { -not $_.FullName.Contains\\(\"node_modules\"\\) } | Select-Object Mode, FullName | Sort-Object FullName)"
+    ]
+  }
+}
